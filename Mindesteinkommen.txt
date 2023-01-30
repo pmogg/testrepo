@@ -1,0 +1,9 @@
+Regelbedarf: 502
+Warmmiete: 311
+Krankenversicherung: 121
+
+934
+
+Minijob: 299
+Stipendium: 275
+Eltern: 360
